@@ -1,0 +1,14 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\obj\Debug\Body_Mass_Index.frmBMI.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\obj\Debug\Body_Mass_Index.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.application
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.application
